@@ -1,0 +1,15 @@
+{
+    "name": "1-eth-wallet",
+    "version": "1.0.0",
+    "description": "",
+    "repository": "https://github.com/Unvios/ethereum-projects",
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.7.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "truffle test"
+    },
+    "author": "Unvios",
+    "license": "ISC"
+}
